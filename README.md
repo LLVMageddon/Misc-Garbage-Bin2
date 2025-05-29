@@ -4,6 +4,13 @@
 ### [Leetcode Garbage](<leetcode/leetcode.md>)
 
 
+## Mini Projects
+#### [Naming Conventions](<projects/Naming Conventions.md>)
+#### [Project Structures](<projects/Project Structures.md>)
+
+
+
+
 <br><br> 
 <br><br> 
 <br><br> 
