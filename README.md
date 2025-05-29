@@ -1,14 +1,13 @@
-# Misc-Garbage-Bin2
+# 📘 Table of Contents
 
-## Leetcode
-### [Leetcode Garbage](<leetcode/leetcode.md>)
-
-
-## Mini Projects
-#### [Naming Conventions](<projects/Naming Conventions.md>)
-#### [Project Structures](<projects/Project Structures.md>)
+##  1. Leetcode
+###           1.1 [Leetcode Garbage](<leetcode/leetcode.md>)
 
 
+## 2.Mini Projects
+####            2.1 [Naming Conventions](<projects/Naming Conventions.md>)
+####            2.2 [Project Structures](<projects/Project Structures.md>)
+####            2.3 [List of Projects](<projects/README.md>)
 
 
 <br><br> 
