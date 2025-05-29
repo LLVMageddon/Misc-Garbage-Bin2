@@ -1,5 +1,8 @@
 # Misc-Garbage-Bin2
 
+## Leetcode
+### [Leetcode Garbage](<leetcode/leetcode.md>)
+
 
 <br><br> 
 <br><br> 
